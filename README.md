@@ -39,7 +39,7 @@ I love taking part in hackathons to push my limits! Recently, I participated in 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](#)
-- Portfolio: [[Your Website/Portfolio Link](#)](https://rraushan1205.github.io/portfolio/)
+- Portfolio: https://rraushan1205.github.io/portfolio/
 - Email: [Your Email](mailto:your-email@example.com)
 - Leetcode: https://leetcode.com/u/rraushan1205/
 
