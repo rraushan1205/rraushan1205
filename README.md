@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Raushan
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rraushan1205&label=Profile%20views&color=0e75b6&style=flat" alt="rraushan1205" /> </p>
 Welcome to my GitHub profile! I'm passionate about technology, coding, and solving real-world problems through innovative solutions.
 
 ## 🚀 About Me
