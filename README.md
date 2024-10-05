@@ -44,3 +44,4 @@ I love taking part in hackathons to push my limits! Recently, I participated in 
 - Leetcode: https://leetcode.com/u/rraushan1205/
 [![trophy](https://github-profile-trophy.vercel.app/?username=rraushan1205)](https://github.com/rraushan1205/github-profile-trophy)
 Feel free to explore my repositories and contribute if something interests you!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rraushan1205&" alt="rraushan1205" /></p>
