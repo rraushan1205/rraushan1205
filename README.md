@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 
 I'm a tech enthusiast and developer with interests in a wide array of domains like:
 
-- **Full-Stack Development**: Express.js, Node.js, React, Firebase, MongoDB
+- **Full-Stack Development**: Express.js, Node.js, React, Firebase, MongoDB, Nextjs
 - **Internet of Things (IoT)**: ESP32, home automation, air pollution monitoring systems
 - **Cybersecurity**: Currently learning the ropes, with a solid foundation in IT and networking
 - **Data Structures and Algorithms**: Exploring and optimizing complex solutions
